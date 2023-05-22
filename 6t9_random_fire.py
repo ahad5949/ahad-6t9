@@ -194,8 +194,8 @@ def my_tool_security():
         print(" otherwise msg on this whatsapp 03155912839 \n")
         print(" Copy your Key :",gre,f_token+_help,wit,"\n")
         os.system("xdg-open https://www.facebook.com/profile.php?id=100040166694248")
-       exit()
-
+      
+      
 
 #---------------------[APPLICATION CHECKER]---------------------#
 def cek_apk(session,coki):
